@@ -11,6 +11,6 @@ Here contains the code and files for the project. The project uses convolution n
 5. [Benchmark pandas file](puzzles/result_comb)
 
 Requirements 
-tensorflow 1.3
-matplotlib
-numpy
+1. tensorflow 1.3
+2. matplotlib
+3. numpy
