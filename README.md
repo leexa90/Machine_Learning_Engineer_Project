@@ -1,11 +1,11 @@
-# Machine_Learning_Engineer_Project
+# Machine_Learning_Engineer_Project by Udacity
 
-# RNA structure prediction using computer vision
+## RNA structure prediction using computer vision
 
-Here contains the code and files needed to predict RNA structures from sequences. 
+Here contains the code and files for the project. The project uses convolution neural networks to predict RNA structure from sequence. 
 
 1. [Report](Project_report.pdf) 
 2. [Notebook](Features_and_model_exploration.ipynb)
-3. [Train Code](MSA16A_16_unbal/new.py)
+3. [Train Code](train.py)
 4. [numpy data files](DATA/)
 5. [Benchmark pandas file](puzzles/result_comb)
