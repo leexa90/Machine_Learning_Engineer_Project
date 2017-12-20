@@ -9,3 +9,8 @@ Here contains the code and files for the project. The project uses convolution n
 3. [Train Code](train.py)
 4. [numpy data files](DATA/)
 5. [Benchmark pandas file](puzzles/result_comb)
+
+Requirements 
+tensorflow 1.3
+matplotlib
+numpy
