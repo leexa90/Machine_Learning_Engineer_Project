@@ -15,3 +15,4 @@ Requirements
 1. tensorflow 1.3
 2. matplotlib
 3. numpy
+4. pandas if running benmark plots
