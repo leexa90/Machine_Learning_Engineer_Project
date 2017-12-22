@@ -4,7 +4,7 @@
 
 Here contains the code and files for the project. The project uses convolution neural networks to predict RNA structure from sequence. 
 
-1. [Report](Project_report.pdf) 
+1. [Report](draft1.pdf) 
 2. [Notebook](Features_and_model_exploration.ipynb)
 3. [Train Code](train.py)
 4. [numpy data files](DATA/)
