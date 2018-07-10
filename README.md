@@ -1,5 +1,3 @@
-# Machine_Learning_Engineer_Project by Udacity
-
 ## RNA structure prediction using computer vision
 
 Here contains the code and files. The method uses convolution neural networks to predict RNA structure from sequence. 
